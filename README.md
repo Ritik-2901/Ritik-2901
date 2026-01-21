@@ -1,67 +1,65 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,2b2b2b,8A2BE2&height=250&section=header&text=Ritik%20Chourasiya&fontSize=70&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Building%20Scalable%20Systems%20with%20Spring%20AI&descSize=20&descAlignY=65" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=100&section=header&text=Ritik%20Chourasiya&fontSize=50&fontColor=58a6ff&fontAlignY=55&desc=System.out.println(%22Hello%20World!%22);&descSize=20&descAlignY=80&descAlign=62" alt="header" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Full+Stack+Developer+☕;Spring+Boot+%26+Microservices+Architect+🏗️;Integrating+AI+into+Backend+Systems+🤖&font=Fira+Code&center=true&width=500&height=30&color=8A2BE2&vCenter=true&pause=1000&size=20" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Run+Spring_Boot_Application...;>+Initializing+Microservices...;>+Loading+Spring_AI_Modules...;>+Status:+Ready_to_Code_&font=Fira+Code&center=true&width=500&height=30&color=39d353&vCenter=true&pause=1000&size=18&background=0D1117" alt="Typing SVG" />
   </a>
 </div>
 
 <br>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
+<table align="center" border="0" bgcolor="#0D1117">
   <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 Who am I?</h3>
-      <p>
-        Hi! I am a <b>Software Engineer Trainee</b> from <b>Indore, India 🇮🇳</b>.
-        I specialize in building robust backends and connecting them with modern frontends.
-      </p>
-      <p>
-        🔭 <b>Working on:</b> Enterprise Spring Boot Apps<br>
-        🌱 <b>Exploring:</b> Generative AI (Spring AI)<br>
-        🤝 <b>Open for:</b> SDE Opportunities
-      </p>
+    <td width="55%" valign="top">
+      <h3 style="color: #58a6ff;">// README.md</h3>
       <br>
-      <a href="https://www.linkedin.com/in/ritik-chourasiya">
-        <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+      <img src="https://img.shields.io/badge/class-Ritik_Chourasiya-ff7b72?style=flat-square&logo=java&logoColor=white" />
+      <br><br>
+      <code>public class <b>Engineer</b> {</code>
+      <br>
+      &nbsp;&nbsp;<code>String focus = "<b>Spring Boot & Microservices</b>";</code>
+      <br>
+      &nbsp;&nbsp;<code>String innovation = "<b>Spring AI Integration</b>";</code>
+      <br>
+      &nbsp;&nbsp;<code>String location = "<b>Indore, India</b>";</code>
+      <br>
+      &nbsp;&nbsp;<code>boolean openToWork = <b>true</b>;</code>
+      <br>
+      <code>}</code>
+      <br><br>
+      <a href="https://linkedin.com/in/ritik-chourasiya">
+        <img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" height="30" />
       </a>
       <a href="mailto:ritikchourasiya81@gmail.com">
-        <img src="https://img.shields.io/badge/Email-Contact_Me-c14438?style=for-the-badge&logo=gmail&logoColor=white" />
+        <img src="https://img.shields.io/badge/Email-Send_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
       </a>
     </td>
-    <td width="50%" valign="top" align="center">
-      <h3>🛠️ Tech Stack</h3>
-      <p align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres&perline=5" />
-          <br><br>
-          <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap&perline=5" />
-          <br><br>
-          <img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode&perline=5" />
-        </a>
-      </p>
+
+    <td width="45%" valign="top" align="center">
+      <h3 style="color: #58a6ff;">// dependencies.json</h3>
+      <br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql&theme=dark" />
+        <br><br>
+        <img src="https://skillicons.dev/icons?i=react,html,js,bootstrap&theme=dark" />
+        <br><br>
+        <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" />
+      </a>
     </td>
   </tr>
 </table>
 
 <br>
 
-<h3 align="center">🐍 My Contribution Activity</h3>
+<h3 align="center" style="color: #58a6ff;">// git_status --graph</h3>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritik-2901&theme=highcontrast&hide_border=true" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ritik-2901&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=39d353" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritik-2901&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58a6ff" height="150" />
 </div>
 
-<br>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ritik-2901&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=8A2BE2&icon_color=ffffff" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritik-2901&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=ffffff" height="150" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8A2BE2,2b2b2b,000000&height=100&section=footer" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritik-2901&theme=dark&hide_border=true&background=0D1117&ring=58a6ff&currStreakLabel=58a6ff" />
 </div>
