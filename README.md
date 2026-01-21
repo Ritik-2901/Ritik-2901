@@ -1,65 +1,97 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=100&section=header&text=Ritik%20Chourasiya&fontSize=50&fontColor=58a6ff&fontAlignY=55&desc=System.out.println(%22Hello%20World!%22);&descSize=20&descAlignY=80&descAlign=62" alt="header" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Ritik+Chourasiya!;Java+Full+Stack+Developer;Exploring+Spring+AI+🤖&font=Fira+Code&center=true&width=500&height=50&color=2F80ED&vCenter=true&pause=1000&size=24" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Run+Spring_Boot_Application...;>+Initializing+Microservices...;>+Loading+Spring_AI_Modules...;>+Status:+Ready_to_Code_&font=Fira+Code&center=true&width=500&height=30&color=39d353&vCenter=true&pause=1000&size=18&background=0D1117" alt="Typing SVG" />
+<p align="center">
+  A passionate <b>Software Engineer Trainee</b> from <b>Indore, India 🇮🇳</b>. <br>
+  I love building backend systems and learning new tech stacks.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ritik-chourasiya" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="mailto:ritikchourasiya81@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9b91f1-06fc-495c-a477-930335804533.gif" width="100%" />
+</div>
+
+<h2 align="center">⚡ Tech Stack & Tools</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java" />
+        <br>Java
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=spring" width="45" height="45" alt="Spring" />
+        <br>Spring Boot
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=hibernate" width="45" height="45" alt="Hibernate" />
+        <br>Hibernate
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" />
+        <br>MySQL
+      </td>
+       <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
+        <br>Git
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React" />
+        <br>React
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JS" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML" />
+        <br>HTML5
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman" />
+        <br>Postman
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub" />
+        <br>GitHub
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
 
-<table align="center" border="0" bgcolor="#0D1117">
-  <tr>
-    <td width="55%" valign="top">
-      <h3 style="color: #58a6ff;">// README.md</h3>
-      <br>
-      <img src="https://img.shields.io/badge/class-Ritik_Chourasiya-ff7b72?style=flat-square&logo=java&logoColor=white" />
-      <br><br>
-      <code>public class <b>Engineer</b> {</code>
-      <br>
-      &nbsp;&nbsp;<code>String focus = "<b>Spring Boot & Microservices</b>";</code>
-      <br>
-      &nbsp;&nbsp;<code>String innovation = "<b>Spring AI Integration</b>";</code>
-      <br>
-      &nbsp;&nbsp;<code>String location = "<b>Indore, India</b>";</code>
-      <br>
-      &nbsp;&nbsp;<code>boolean openToWork = <b>true</b>;</code>
-      <br>
-      <code>}</code>
-      <br><br>
-      <a href="https://linkedin.com/in/ritik-chourasiya">
-        <img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" height="30" />
-      </a>
-      <a href="mailto:ritikchourasiya81@gmail.com">
-        <img src="https://img.shields.io/badge/Email-Send_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
-      </a>
-    </td>
+<h2 align="center">📊 My GitHub Stats</h2>
 
-    <td width="45%" valign="top" align="center">
-      <h3 style="color: #58a6ff;">// dependencies.json</h3>
-      <br>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql&theme=dark" />
-        <br><br>
-        <img src="https://skillicons.dev/icons?i=react,html,js,bootstrap&theme=dark" />
-        <br><br>
-        <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ritik-2901&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritik-2901&layout=compact&theme=default&hide_border=true" height="150" alt="languages graph" />
+</div>
 
 <br>
 
-<h3 align="center" style="color: #58a6ff;">// git_status --graph</h3>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ritik-2901&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=39d353" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritik-2901&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58a6ff" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritik-2901&theme=default&hide_border=true" alt="streak graph" />
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritik-2901&theme=dark&hide_border=true&background=0D1117&ring=58a6ff&currStreakLabel=58a6ff" />
+  <img src="https://komarev.com/ghpvc/?username=Ritik-2901&label=Profile%20Views&color=blue&style=flat-square" alt="ritik-chourasiya" />
 </div>
