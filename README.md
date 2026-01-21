@@ -1,63 +1,84 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Ritik+Chourasiya!+👋;Java+Full+Stack+Developer+🚀;Exploring+Spring+AI+🤖&font=Fira+Code&center=true&width=400&height=40&color=f43f5e&vCenter=true&size=22" alt="Typing SVG" />
-  
-  <br>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://img.shields.io/badge/Status-Building%20Scalable%20Systems-blue?style=for-the-badge&logo=codesandbox&logoColor=white" alt="Status" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8A2BE2,00FFFF&height=220&section=header&text=Ritik%20Chourasiya&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=fadeIn" alt="Header" />
 </div>
 
-<br>
+<h3 align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Full+Stack+Developer+☕;Building+Microservices+with+Spring+Boot+🚀;Exploring+Spring+AI+🤖&font=Fira+Code&center=true&width=500&height=30&color=00FFFF&vCenter=true&pause=1000&size=20" alt="Typing SVG" />
+    </a>
+</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ritik-chourasiya" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ritikchourasiya81@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=social&logo=gmail" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/Ritik-2901">
-    <img src="https://img.shields.io/github/followers/Ritik-2901?style=social" alt="Followers" />
-  </a>
-</div>
-
----
-
-### 🚀 **About Me**
-
-Hello! I am a **Software Engineer Trainee** from **Indore, India** 🇮🇳. I love solving problems using **Java** & **Spring Boot**.
-
-* 🔭 Working on: **Microservices & Spring Boot**
-* 🌱 Learning: **Spring AI** (Artificial Intelligence in Backend)
-* 🎯 Goal: To become a proficient **SDE**
-* ⚡ Fun fact: I believe in "Learning in Public"
-
----
-
-### 💻 **Tech Stack**
-
-<div align="center">
-
-| **Backend & AI** | **Frontend & DB** | **Tools** |
-| :---: | :---: | :---: |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
-| ![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white) | ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
-
-</div>
-
----
-
-### 📊 **My Coding Stats**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ritik-2901&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=issues,contribs" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritik-2901&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ritik-2901&label=Profile%20Views&color=ff69b4&style=flat-square" alt="views" />
+  <table>
+    <tr>
+      <td valign="center">
+        <h1>👋 About Me</h1>
+        <p>
+            Hi, I'm <b>Ritik</b>! A passionate developer from <b>Indore, India 🇮🇳</b>.
+            <br>
+            I don't just write code; I build <b>scalable systems</b>.
+            <br><br>
+            🦄 <b>Working on:</b> Spring Boot & Microservices<br>
+            🧠 <b>Learning:</b> Integrating AI in Backends (Spring AI)<br>
+            ⚡ <b>Strength:</b> Java Full Stack Development
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<h2 align="center">⚡ Tech Arsenal</h2>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" height="35" />
+  
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Microservices-black?style=flat&logo=google-cloud&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=flat&logo=spring&logoColor=white" height="35" />
+  
+  <br><br>
+  
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" height="35" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white" height="35" />
+  
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" height="35" />
+</div>
+
+<br>
+
+<h2 align="center">🏆 Achievements & Stats</h2>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Ritik-2901&theme=radical&no-frame=true&margin-w=15&row=1" alt="trophy" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ritik-2901&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritik-2901&layout=compact&theme=radical&hide_border=true" height="160" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00FFFF,8A2BE2&height=100&section=footer" />
 </div>
