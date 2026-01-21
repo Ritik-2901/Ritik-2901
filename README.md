@@ -3,7 +3,7 @@
   <br/>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Ritik+Chourasiya!+👋;Java+Full+Stack+Developer+☕;Building+Microservices+with+Spring+Boot+🚀;Exploring+Spring+AI+🤖&font=Fira+Code&center=true&width=500&height=40&color=0055FF&vCenter=true&pause=1000&size=24" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Ritik+Chourasiya!+👋;Java+Full+Stack+Developer+☕;Building+Microservices+with+Spring+Boot+🚀;Exploring+Spring+AI+🤖&font=Fira+Code&center=true&width=600&height=40&color=0055FF&vCenter=true&pause=1000&size=24" alt="Typing SVG" />
   </a>
 </div>
 
@@ -27,13 +27,12 @@
 
 ### 👨‍💻 **About Me**
 
-I am a passionate **Software Engineer Trainee** at **InfoBeans Foundation** from **Indore, India 🇮🇳**. I specialize in building scalable backends and integrating modern technologies like **AI** into Java applications.
+I am a passionate **Software Engineer Trainee** at **InfoBeans Foundation** from **Indore, India 🇮🇳**. My focus is on building robust backends using **Java** & **Spring Boot** and connecting them with modern frontends.
 
-* 🔭 **I’m currently working on:** Enterprise Applications using **Spring Boot & Microservices**.
-* 🌱 **I’m currently learning:** Integrating **Spring AI** for smarter backend systems.
-* 👯 **I’m looking to collaborate on:** Open Source Java Projects.
-* 💬 **Ask me about:** Java, Data Structures, SQL, and System Design.
-* ⚡ **Fun fact:** I believe in **"Learning in Public"** to grow faster!
+* 🔭 **I’m currently working on:** RESTful APIs using **Spring Boot & Microservices**.
+* 🌱 **I’m currently learning:** Integrating **Spring AI** into backend systems.
+* 👯 **I’m looking to collaborate on:** Java & Spring Boot Projects.
+* 💬 **Ask me about:** Java, Spring MVC, Hibernate (JPA), and SQL.
 
 <br>
 
@@ -51,7 +50,7 @@ I am a passionate **Software Engineer Trainee** at **InfoBeans Foundation** from
   <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap&theme=light" />
   <br><br>
 
-  **Database, Tools & version Control**
+  **Database & Tools**
   <br>
   <img src="https://skillicons.dev/icons?i=mysql,postman,git,github,vscode,idea&theme=light" />
 
