@@ -63,7 +63,7 @@ I am a passionate **Software Engineer Trainee** at **InfoBeans Foundation** from
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ritik-2901&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritik-2901&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritik-2901&layout=compact&theme=radical&hide_border=true&count_private=true" height="150" alt="languages graph" />
 </div>
 
 <br>
@@ -75,7 +75,7 @@ I am a passionate **Software Engineer Trainee** at **InfoBeans Foundation** from
 <br>
 
 <div align="center">
-  <img src="https://github.com/Ritik-2901/Ritik-2901/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Ritik-2901/Ritik-2901/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 <hr>
